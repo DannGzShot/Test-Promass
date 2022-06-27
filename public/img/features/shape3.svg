@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="88" height="121" viewBox="0 0 88 121">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: #ff8b8b;
+      }
+    </style>
+  </defs>
+  <g class="cls-1">
+    <circle cx="2.078" cy="2.078" r="2.078" class="cls-2"/>
+    <circle cx="18.656" cy="2.078" r="2.063" class="cls-2"/>
+    <circle cx="35.234" cy="2.078" r="2.078" class="cls-2"/>
+    <circle cx="51.813" cy="2.078" r="2.063" class="cls-2"/>
+    <circle cx="68.391" cy="2.078" r="2.078" class="cls-2"/>
+    <circle cx="2.078" cy="18.656" r="2.078" class="cls-2"/>
+    <circle cx="18.656" cy="18.656" r="2.063" class="cls-2"/>
+    <circle cx="35.234" cy="18.656" r="2.078" class="cls-2"/>
+    <circle cx="51.813" cy="18.656" r="2.063" class="cls-2"/>
+    <circle cx="68.391" cy="18.656" r="2.078" class="cls-2"/>
+    <circle cx="2.078" cy="35.234" r="2.078" class="cls-2"/>
+    <circle cx="18.656" cy="35.234" r="2.063" class="cls-2"/>
+    <circle cx="35.234" cy="35.234" r="2.078" class="cls-2"/>
+    <circle cx="51.813" cy="35.234" r="2.063" class="cls-2"/>
+    <circle cx="68.391" cy="35.234" r="2.078" class="cls-2"/>
+    <circle cx="2.078" cy="51.813" r="2.078" class="cls-2"/>
+    <circle cx="18.656" cy="51.813" r="2.063" class="cls-2"/>
+    <circle cx="35.234" cy="51.813" r="2.078" class="cls-2"/>
+    <circle cx="51.813" cy="51.813" r="2.063" class="cls-2"/>
+    <circle cx="68.391" cy="51.813" r="2.078" class="cls-2"/>
+    <circle cx="2.078" cy="68.391" r="2.078" class="cls-2"/>
+    <circle cx="18.656" cy="68.391" r="2.063" class="cls-2"/>
+    <circle cx="35.234" cy="68.391" r="2.078" class="cls-2"/>
+    <circle cx="51.813" cy="68.391" r="2.063" class="cls-2"/>
+    <circle cx="68.391" cy="68.391" r="2.078" class="cls-2"/>
+    <ellipse cx="2.078" cy="84.969" rx="2.078" ry="2.063" class="cls-2"/>
+    <ellipse cx="18.656" cy="84.969" rx="2.063" ry="2.063" class="cls-2"/>
+    <ellipse cx="35.234" cy="84.969" rx="2.078" ry="2.063" class="cls-2"/>
+    <ellipse cx="51.813" cy="84.969" rx="2.063" ry="2.063" class="cls-2"/>
+    <ellipse cx="68.391" cy="84.969" rx="2.078" ry="2.063" class="cls-2"/>
+    <circle cx="2.078" cy="101.547" r="2.078" class="cls-2"/>
+    <circle cx="18.656" cy="101.547" r="2.063" class="cls-2"/>
+    <circle cx="35.234" cy="101.547" r="2.078" class="cls-2"/>
+    <circle cx="51.813" cy="101.547" r="2.063" class="cls-2"/>
+    <circle cx="68.391" cy="101.547" r="2.078" class="cls-2"/>
+    <circle cx="2.078" cy="118.126" r="2.078" class="cls-2"/>
+    <circle cx="18.656" cy="118.126" r="2.063" class="cls-2"/>
+    <circle cx="35.234" cy="118.126" r="2.078" class="cls-2"/>
+    <circle cx="51.813" cy="118.126" r="2.063" class="cls-2"/>
+    <circle cx="68.391" cy="118.126" r="2.078" class="cls-2"/>
+    <ellipse cx="84.969" cy="2.078" rx="2.063" ry="2.078" class="cls-2"/>
+    <ellipse cx="84.969" cy="18.656" rx="2.063" ry="2.063" class="cls-2"/>
+    <ellipse cx="84.969" cy="35.234" rx="2.063" ry="2.078" class="cls-2"/>
+    <ellipse cx="84.969" cy="51.813" rx="2.063" ry="2.063" class="cls-2"/>
+    <ellipse cx="84.969" cy="68.391" rx="2.063" ry="2.078" class="cls-2"/>
+    <circle cx="84.969" cy="84.969" r="2.063" class="cls-2"/>
+    <ellipse cx="84.969" cy="101.547" rx="2.063" ry="2.078" class="cls-2"/>
+    <ellipse cx="84.969" cy="118.126" rx="2.063" ry="2.063" class="cls-2"/>
+  </g>
+</svg>

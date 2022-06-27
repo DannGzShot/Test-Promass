@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="32" height="83" viewBox="0 0 32 83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #e2b500;
+        stroke-width: 1px;
+        stroke-dasharray: 6,6;
+        fill-rule: evenodd;
+        stroke-dashoffset: 10;
+        animation: anim 10s linear;
+      }
+
+      @keyframes anim {
+        from {
+          stroke-dashoffset: 10;
+        }
+        to {
+          stroke-dashoffset: 100;
+        }
+      }
+    </style>
+  </defs>
+  <path d="M-0.000,82.000 L31.000,-0.000 " class="cls-1"/>
+</svg>

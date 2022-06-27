@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1920" height="1254" viewBox="0 0 1920 1254">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #ffd000;
+        stroke-width: 2px;
+        fill: none;
+        fill-rule: evenodd;
+        stroke-dashoffset: 20000;
+        animation: anim 15s linear;
+      }
+      @keyframes anim {
+        from {
+          stroke-dasharray: 4000;
+        }
+        to {
+          stroke-dasharray: 5000;
+        }
+      }
+    </style>
+  </defs>
+
+
+  <path d="M-4.469,1303.999 C-4.469,1303.999 -38.265,1160.062 211.556,1066.150 C461.377,972.237 547.801,986.861 595.600,857.510 C643.398,728.159 767.826,659.295 895.634,690.598 C1023.441,721.901 1121.866,682.213 1191.667,569.586 C1261.468,456.961 1245.880,283.700 1427.694,329.651 C1609.508,375.601 1639.925,354.608 1711.726,244.108 C1783.527,133.608 1813.945,14.506 1919.750,-0.001 " class="cls-1"/>
+</svg>
