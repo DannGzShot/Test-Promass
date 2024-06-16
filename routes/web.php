@@ -27,6 +27,8 @@ Route::get('/api-posts/', [APIController::class, 'posts'])->name('api-posts');
 Route::put('/api-insertar/', [APIController::class, 'insertar'])->name('api-insertar');
 Route::post('/api-actualizar/', [APIController::class, 'actualizar'])->name('api-actualizar');
 
+Route::post('/busqueda/public/polizas/consultaPoliza/', [APIController::class, 'consultaPoliza'])->name('consultaPoliza');
+
 
 Route::get('clear-all', function() {
     Artisan::call('cache:clear');

@@ -62,6 +62,54 @@ class APIController extends Controller
       return response()->json([ 'status' => '200' , 'mensaje' => 'Entrada actualizada correctamente']);
     }
 
+
+
+
+
+    public function consultaPoliza(Request $request)
+    {
+    
+  
+   
+     $result = array(
+        "status" => "ok",
+         "data" => array(
+         "dataPerson" => array(
+           "firstName" => "VICTOR HAJIME",
+           "lastName" => "TORRES ",
+           "middleName" => "UCHIZATO",
+           "rfc" => "TOUV730126FD2",
+           "fechaNac" => "26\/01\/1973",
+           "cuenta" => "0000013000009941654 ",
+           "tarjeta" => "1300000994165401",
+           "edad" => 48
+         ),
+         "program" => array( 
+           "policyNumber" =>  "A1-TLI-123956",
+           "poliza" =>  "0000013000009941654",
+           "effectiveDate" =>  "2013-05-05",
+           "statusWs" =>  "Activado",
+           "statusPrograma" => "Activado",
+           "colorStatus" =>  "#05c953",
+           "productName" =>  "07 PIF EXTRA ",
+           "colorProduct" => "#EA1A95",
+           "cancellationDate" => "01\/01\/1888 00:00:00"
+         ),
+         "response" => array(
+           "code" => "1",
+           "msg" => "Cuenta encontrada con programa Activado",
+           "cuenta" => "0000013000009941654",
+           "tarjeta" => "1300000994165401"
+         )
+         )
+       );
+
+       return response()->json($result,201);
+    }
+
+
+
+
       /* HEADERS */
       /*
         X-Requested-With XMLHttpRequest

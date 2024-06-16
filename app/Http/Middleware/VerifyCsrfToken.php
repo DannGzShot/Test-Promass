@@ -15,6 +15,7 @@ class VerifyCsrfToken extends Middleware
         '/api/*',
         '/api-insertar/*',
         '/api-insertar/',
-        '/api-actualizar/'
+        '/api-actualizar/',
+        '/busqueda/public/polizas/consultaPoliza/'
     ];
 }
